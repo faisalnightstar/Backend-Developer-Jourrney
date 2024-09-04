@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "This is my first express code.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "express"
+  },
+  "keywords": [
+    "express",
+    "express.js",
+    "express",
+    "js"
+  ],
+  "author": "Abu Faisal",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
